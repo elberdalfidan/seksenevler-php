@@ -1,0 +1,31 @@
+[16-May-2021 23:35:11 Europe/Istanbul] PHP Warning:  include(../../../seksenevler/controller/config.php): failed to open stream: No such file or directory in /home/u9907974/public_html/controller/member-controller/member-add-controller.php on line 2
+[16-May-2021 23:35:11 Europe/Istanbul] PHP Warning:  include(): Failed opening '../../../seksenevler/controller/config.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/u9907974/public_html/controller/member-controller/member-add-controller.php on line 2
+[16-May-2021 23:35:11 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/u9907974/public_html/controller/member-controller/member-add-controller.php on line 11
+[16-May-2021 23:35:11 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/u9907974/public_html/controller/member-controller/member-add-controller.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/u9907974/public_html/controller/member-controller/member-add-controller.php on line 11
+[07-Jun-2021 22:37:41 Europe/Istanbul] PHP Notice:  Undefined variable: id in /home/u9907974/public_html/controller/member-controller/edit-member-list-controller.php on line 3
+[07-Jun-2021 22:37:41 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/u9907974/public_html/controller/member-controller/edit-member-list-controller.php on line 4
+[07-Jun-2021 22:37:41 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/u9907974/public_html/controller/member-controller/edit-member-list-controller.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/u9907974/public_html/controller/member-controller/edit-member-list-controller.php on line 4
+[07-Jun-2021 22:38:12 Europe/Istanbul] PHP Notice:  Undefined variable: id in /home/u9907974/public_html/controller/member-controller/edit-member-list-controller.php on line 3
+[07-Jun-2021 22:38:12 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/u9907974/public_html/controller/member-controller/edit-member-list-controller.php on line 4
+[07-Jun-2021 22:38:12 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/u9907974/public_html/controller/member-controller/edit-member-list-controller.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/u9907974/public_html/controller/member-controller/edit-member-list-controller.php on line 4
+[07-Jun-2021 22:42:38 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/u9907974/public_html/controller/member-controller/edit-member-list-controller.php on line 5
+[07-Jun-2021 22:42:38 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/u9907974/public_html/controller/member-controller/edit-member-list-controller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/u9907974/public_html/controller/member-controller/edit-member-list-controller.php on line 5
+[07-Jun-2021 22:44:07 Europe/Istanbul] PHP Notice:  Undefined index: id in /home/u9907974/public_html/controller/member-controller/edit-member-list-controller.php on line 4
+[07-Jun-2021 22:44:07 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/u9907974/public_html/controller/member-controller/edit-member-list-controller.php on line 5
+[07-Jun-2021 22:44:07 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/u9907974/public_html/controller/member-controller/edit-member-list-controller.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/u9907974/public_html/controller/member-controller/edit-member-list-controller.php on line 5
+[07-Jun-2021 23:20:39 Europe/Istanbul] PHP Notice:  Undefined variable: test in /home/u9907974/public_html/controller/member-controller/member-add-controller.php on line 32

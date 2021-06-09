@@ -2,7 +2,7 @@
 require('controller/session.php');
 ?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <meta charset="utf-8">
     <title>Home Page</title>
@@ -15,6 +15,7 @@ require('controller/session.php');
 <div class="content">
     <h2>Home Page</h2>
     <p>Welcome back, <?=$_SESSION['name']?>!</p>
+    <span>TEST</span>
 </div>
 </body>
 </html>
